@@ -1,0 +1,14 @@
+#This program will print my full name 
+#And two sentences about my favorite food and movie 
+
+
+#This function tells the computer to print my full name
+#And two sentences  
+def Session1():
+	print('Isaiah Cupino\nOne of my favorite movies is Interstellar.\nMy favorite food is my dad\'s beef and chayote.')
+
+def main():
+	Session1()
+
+if __name__ == '__main__':
+	main()
